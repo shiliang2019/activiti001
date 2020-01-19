@@ -30,7 +30,7 @@ public class TestController {
 	public String test()
 	{
 		System.out.println(dataSourceConfig);
-		System.out.println("-----");
+		System.out.println("------");
 		System.out.println(dataSource);
 		return "分享牛";
 	}
